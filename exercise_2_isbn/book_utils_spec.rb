@@ -1,3 +1,4 @@
+require 'rspec'
 require './book_utils'
 
 describe BookUtils, "#valid_isbn13" do
